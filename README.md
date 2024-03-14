@@ -13,7 +13,7 @@
 
 添加网址导航的时候,文章内容可以为空,链接标志；徽标就是页面上显示的标志；徽标图片 格式为
 ```
-<img数据-src=“xxxx.png“ 班级=“lozad img-circle” 宽度="40">
+<img data-src="xxxx.png" class="lozad img-circle" width="40">
 ```
 链接描述即为 网址导航的一些说明什么的
 
